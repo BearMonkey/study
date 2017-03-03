@@ -1,2 +1,3 @@
 hello git!
 git is very good!
+add other line
